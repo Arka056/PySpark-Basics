@@ -328,41 +328,13 @@ If you are also learning **PySpark, Apache Spark, Databricks, Data Engineering, 
 🤝 Share better approaches  
 📚 Discuss concepts and real-world use cases
 
-**Let's learn, build, and grow together. 🚀**
-
----
-
-## 📈 Progress
-
-```text
-PySpark Fundamentals      █████████░  In Progress
-Data Transformation       ████████░░  In Progress
-Spark SQL                 ███████░░░  In Progress
-EDA & Data Cleaning       ███████░░░  In Progress
-PySpark MLlib             █████░░░░░  Learning
-Spark Optimization        ███░░░░░░░  Learning
-Databricks                █████░░░░░  Learning
-Production Pipelines      ██░░░░░░░░  Upcoming
-```
-
-> 📌 **This progress tracker is intentionally updated as concepts are implemented and projects are completed.**
-
 ---
 
 ## 🌱 Currently Exploring
 
-**PySpark → Databricks → Data Engineering → Scalable Data Platforms**
+**PySpark → Databricks & Snowflake → Data Engineering → Scalable Data Platforms**
 
 The long-term goal is to become comfortable designing and building **reliable, scalable, production-oriented data pipelines** rather than only solving isolated coding exercises.
-
----
-
-## ⭐ If This Repository Helps You
-
-If you're following the same path, consider starring ⭐ the repository and sharing your learning journey.
-
-> **One dataset at a time. One pipeline at a time. One concept at a time.  
-> Building towards production-ready Data Engineering. 🚀**
 
 ---
 
